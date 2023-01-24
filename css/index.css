@@ -29,6 +29,8 @@
   --card-padding: 40px;
   --card-bottom-card: 40px;
   --card-border-radius: 10px;
+  --card-top-color: #ffffff;
+  --card-top-bg-color: #ff6a00;
   --card-cover-bg-color: #e9e9e9;
   --tabele-thead-bg-color: rgba(153, 169, 191, 0.1);
   --tabele-thead-border-color: #eee;
@@ -44,6 +46,7 @@
   --notice-outdate-bg: #ffe6e6;
   --notice-outdate-color: #ff6666;
   --notice-outdate-border: #ff8080;
+  --scroll-progress-bg-color: linear-gradient(#ffdddd, #e9ddff);
 }
 :root.dark {
   --primary: #afb42b;
@@ -79,6 +82,7 @@
   --notice-outdate-bg: #403131;
   --notice-outdate-color: #ff6565;
   --notice-outdate-border: #bb1e1e;
+  --scroll-progress-bg-color: linear-gradient(#82df7a80, #82df7a80);
 }
 /* @media (prefers-color-scheme: dark) {
     :root {
