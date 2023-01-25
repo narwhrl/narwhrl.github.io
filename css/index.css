@@ -3442,6 +3442,81 @@ pre .javascript .title,
 pre .coffeescript .title {
   color: var(--highlight-blue) !important;
 }
+.trm-search-popup {
+  position: fixed;
+  top: 0;
+  width: 100vw;
+  height: 100vh;
+  display: none;
+  background: var(--theme-bg-color-80, #fcfcfe);
+  backdrop-filter: blur(20px);
+  z-index: 99;
+}
+.trm-search-popup.show {
+  display: block;
+}
+.trm-search-popup .trm-search-header {
+  text-align: right;
+}
+.trm-search-popup .trm-search-header .trm-search-popup-btn-close {
+  cursor: pointer;
+  width: 2rem;
+  height: 2rem;
+  padding: 0.5rem;
+  font-size: 1.5rem;
+  margin: 1rem 1rem 0 0;
+  align-items: center;
+  display: inline-flex;
+  border-radius: 50%;
+  transition: all 0.4s ease-in-out;
+}
+.trm-search-popup .trm-search-header .trm-search-popup-btn-close:hover {
+  background-color: var(--primary-70, #afb42b);
+  color: #fcfcfe;
+}
+.trm-search-popup .trm-search-form {
+  text-align: center;
+}
+.trm-search-popup .trm-search-form .trm-search-input {
+  max-width: 25rem;
+  display: inline-block;
+  font-size: 1.5rem;
+  border-radius: 3rem;
+  padding: 1rem 1.5rem;
+  border: 1px solid var(--body-color, #7B7B7D);
+  text-align: center;
+  height: auto;
+  margin-bottom: 0;
+}
+.trm-search-popup .trm-search-result-container {
+  border-radius: 5px;
+  color: var(--theme-color, #00283a);
+  text-align: center;
+}
+.trm-search-popup .trm-search-result-container .search-stats {
+  margin: 10px;
+  padding: 10px;
+  border-bottom: 1px solid var(--body-color, #7B7B7D);
+}
+.trm-search-popup .trm-search-result-container .search-result-list {
+  height: calc(100vh - 15rem);
+  overflow-y: auto;
+  margin: 0;
+  padding: 0 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.trm-search-popup .trm-search-result-container .search-result-list li {
+  list-style: none;
+  padding: 10px;
+  cursor: pointer;
+  border-bottom: 1px dashed var(--body-color, #7B7B7D);
+}
+.trm-search-popup .trm-search-result-container .search-result-list li .search-result-title {
+  font-size: 1.1rem;
+  color: var(--primary, #afb42b);
+}
 .trm-fixed-container {
   position: fixed;
   z-index: 10;
@@ -3526,4 +3601,80 @@ pre .coffeescript .title {
   .trm-fixed-container {
     right: 30px;
   }
+}
+@font-face {
+  font-family: 'Noto Serif SC';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/notoserifsc/v22/H4c8BXePl9DZ0Xe7gG9cyOj7miKxSzY.otf) format('opentype');
+}
+h1,
+h2,
+strong {
+  font-family: 'Noto Serif SC', serif;
+}
+:root {
+  --primary: #ff7c2a;
+  --primary-70: rgba(255, 124, 42, 0.7);
+  --primary-50: rgba(255, 124, 42, 0.5);
+  --primary-30: rgba(255, 124, 42, 0.3);
+  --primary-weak: #fb9352;
+  --primary-weak-50: rgba(251, 147, 82, 0.5);
+  --selection-bg-color: #1f2d3d;
+  --selection-color: #f1f1f1;
+}
+:root.dark {
+  --primary: #ff7c2a;
+  --primary-70: rgba(255, 124, 42, 0.7);
+  --primary-50: rgba(255, 124, 42, 0.5);
+  --primary-30: rgba(255, 124, 42, 0.3);
+  --primary-weak: #fb9352;
+  --primary-weak-50: rgba(251, 147, 82, 0.5);
+  --selection-bg-color: #f1f1f1;
+  --selection-color: #1f2d3d;
+}
+/*
+:root {
+    .var-primary(#6062ce, #7a89df);
+
+    --selection-bg-color: #1f2d3d;
+    --selection-color   : #f1f1f1;
+
+    &.dark {
+        .var-primary(#6062ce, #7a89df);
+
+        --selection-bg-color: #f1f1f1;
+        --selection-color   : #1f2d3d;
+        
+        .trm-avatar {
+            filter      : invert(0.9);
+            border-color: transparent;
+        }
+        
+    }
+}
+*/
+::selection {
+  background: var(--selection-bg-color);
+  color: var(--selection-color);
+}
+.trm-top-bar .container .trm-left-side .trm-logo-frame {
+  width: 100% !important;
+  justify-content: center;
+}
+.trm-top-bar .container .trm-left-side .trm-logo-frame img {
+  height: 70%;
+  width: auto !important;
+}
+@media (max-width: 600px) {
+  .trm-logo-frame img {
+    display: none;
+  }
+}
+.trm-card .trm-icon {
+  font-size: 26px !important;
+}
+.trm-mode-switcher-place .trm-mode-switcher svg {
+  font-size: 14px;
 }
