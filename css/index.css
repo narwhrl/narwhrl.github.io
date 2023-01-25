@@ -3614,21 +3614,24 @@ h2,
 strong {
   font-family: 'Noto Serif SC', serif;
 }
+.text-center {
+  display: none;
+}
 :root {
-  --primary: #ff7c2a;
-  --primary-70: rgba(255, 124, 42, 0.7);
-  --primary-50: rgba(255, 124, 42, 0.5);
-  --primary-30: rgba(255, 124, 42, 0.3);
+  --primary: #ff8200;
+  --primary-70: rgba(255, 130, 0, 0.7);
+  --primary-50: rgba(255, 130, 0, 0.5);
+  --primary-30: rgba(255, 130, 0, 0.3);
   --primary-weak: #fb9352;
   --primary-weak-50: rgba(251, 147, 82, 0.5);
   --selection-bg-color: #1f2d3d;
   --selection-color: #f1f1f1;
 }
 :root.dark {
-  --primary: #ff7c2a;
-  --primary-70: rgba(255, 124, 42, 0.7);
-  --primary-50: rgba(255, 124, 42, 0.5);
-  --primary-30: rgba(255, 124, 42, 0.3);
+  --primary: #ff8200;
+  --primary-70: rgba(255, 130, 0, 0.7);
+  --primary-50: rgba(255, 130, 0, 0.5);
+  --primary-30: rgba(255, 130, 0, 0.3);
   --primary-weak: #fb9352;
   --primary-weak-50: rgba(251, 147, 82, 0.5);
   --selection-bg-color: #f1f1f1;
