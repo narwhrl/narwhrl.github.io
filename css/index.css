@@ -3664,17 +3664,21 @@ strong {
 }
 .trm-top-bar .container .trm-left-side .trm-logo-frame {
   width: 100% !important;
-  justify-content: center;
+  justify-content: left;
 }
 .trm-top-bar .container .trm-left-side .trm-logo-frame img {
-  height: 70%;
+  height: 60%;
   width: auto !important;
 }
-@media (max-width: 600px) {
-  .trm-logo-frame img {
-    display: none;
-  }
+/*
+@media(max-width:600px) {
+    .trm-logo-frame {
+        img {
+            display: none;
+        }
+    }
 }
+*/
 .trm-card .trm-icon {
   font-size: 26px !important;
 }
