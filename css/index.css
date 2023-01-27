@@ -3234,6 +3234,18 @@ figure.highlight:hover .code-tools.mac-style .code-lang {
 figure.highlight:hover .code-tools.mac-style .copy-button {
   display: inherit;
 }
+figure.highlight::after {
+  content: " ";
+  position: absolute;
+  border-radius: 50%;
+  background: #ff5f56;
+  width: 12px;
+  height: 12px;
+  top: 9px;
+  left: 12px;
+  -webkit-box-shadow: 20px 0 #ffbd2e, 40px 0 #27c93f;
+  box-shadow: 20px 0 #ffbd2e, 40px 0 #27c93f;
+}
 figure.highlight .code-expand-btn {
   position: absolute;
   z-index: 10;
@@ -3262,6 +3274,7 @@ figure.highlight .code-expand-btn:not(.expand-done) ~ pre,
 figure.highlight .code-expand-btn:not(.expand-done) ~ table {
   margin-bottom: 0;
   overflow: hidden;
+  height: 200px;
 }
 figure.highlight .code-expand-btn svg {
   margin: 0;
