@@ -1,41 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>星际迷航:发现号 第五季最新消息</title>
-    <url>/news/dis5-set-visit/</url>
-    <content><![CDATA[<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@900&display=swap" rel="stylesheet">
-
-<style>
-    h1, h2, h3, h4, strong{
-        font-family: 'Noto Serif SC', serif;
-    }
-    img{
-        width: 100%; height: auto;max-width: 100%; display: block; 
-    }
-</style>
-
-<p><font color="#ff8200">#星际迷航:发现号#</font> 第五季正在多伦多的片场紧锣密鼓地拍摄中，<br>库伯医生的扮演者威尔森·克鲁兹在星际迷航日带大家参观了新一季的片场，<br>包括全新的舰长室，联邦总部和新的制服。</p>
-<h4><strong>发现号第五季目前暂定于<font color="#fc3a6a">2023年</font>下半年回归。</strong></h4>
-<div class="trm-video trm-scroll-animation trm-active-el" data-scroll="" data-scroll-offset="40">
-  <div class="trm-video-content trm-overlay">
-    <img src="//stcn-1313263980.cos.ap-shanghai.myqcloud.com/img/post/dis5-set-visit/1.jpg" alt="video-cover" loading="lazy" onerror='this.onerror=null;this.src="/img/404.jpg"'>
-    <div class="trm-button-puls"></div>
-    <iframe width="100%" height="100%" src="https://player.startrekcn.cn/player/?url=https://drive.startrekcn.cn/d/site/dis5setvisit.mkv"></iframe>
-      <i class="fas fa-play"></i>
-    </a>
-  </div>
-</div>
-]]></content>
-      <categories>
-        <category>news</category>
-      </categories>
-      <tags>
-        <tag>DIS, DSC, Discovery, 发现号, 新闻</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>星际迷航：发现号 即将迎来最终季</title>
     <url>/news/dis-final-season/</url>
     <content><![CDATA[<link rel="preconnect" href="https://fonts.googleapis.com">
@@ -118,38 +83,6 @@
       </tags>
   </entry>
   <entry>
-    <title>星际迷航:底层甲板 下半季大电影集片段</title>
-    <url>/news/lds3-exclusive-clip/</url>
-    <content><![CDATA[<link rel="preconnect" href="https://fonts.googleapis.com">
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@900&display=swap" rel="stylesheet">
-
-<style>
-    h1, h2, h3, h4, strong{
-        font-family: 'Noto Serif SC', serif;
-    }
-</style>
-
-<p><font color="#ff8200">#星际迷航:底层甲板#</font> 下半季Crsis Point大电影集片段放出<span id="more"></span>，<br>恭喜博米勒（在全息甲板&#x2F;梦里）终于当上了舰长👏</p>
-<h4><strong>底层甲板第三季正在播出，每周字幕版敬请关注。</strong></h4>
-<div class="trm-video trm-scroll-animation trm-active-el" data-scroll="" data-scroll-offset="40">
-  <div class="trm-video-content trm-overlay">
-    <img src="//stcn-1313263980.cos.ap-shanghai.myqcloud.com/img/post/lds3-exclusive-clip/1.jpg" alt="video-cover" loading="lazy" onerror='this.onerror=null;this.src="/img/404.jpg"'>
-    <div class="trm-button-puls"></div>
-    <iframe width="100%" height="100%" src="https://player.startrekcn.cn/player/?url=https://drive.startrekcn.cn/d/site/lds3Exclusive.mkv"></iframe>
-      <i class="fas fa-play"></i>
-    </a>
-  </div>
-</div>
-]]></content>
-      <categories>
-        <category>news</category>
-      </categories>
-      <tags>
-        <tag>LDS, Lower Decks, 底层甲板, Crisis Point,新闻, 预告</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>🕯️Kirstie Alley近日因癌症去世🕯️</title>
     <url>/news/kirstie-alley-passed-away/</url>
     <content><![CDATA[<link rel="preconnect" href="https://fonts.googleapis.com">
@@ -183,6 +116,38 @@
       </categories>
       <tags>
         <tag>新闻</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>星际迷航:底层甲板 下半季大电影集片段</title>
+    <url>/news/lds3-exclusive-clip/</url>
+    <content><![CDATA[<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@900&display=swap" rel="stylesheet">
+
+<style>
+    h1, h2, h3, h4, strong{
+        font-family: 'Noto Serif SC', serif;
+    }
+</style>
+
+<p><font color="#ff8200">#星际迷航:底层甲板#</font> 下半季Crsis Point大电影集片段放出<span id="more"></span>，<br>恭喜博米勒（在全息甲板&#x2F;梦里）终于当上了舰长👏</p>
+<h4><strong>底层甲板第三季正在播出，每周字幕版敬请关注。</strong></h4>
+<div class="trm-video trm-scroll-animation trm-active-el" data-scroll="" data-scroll-offset="40">
+  <div class="trm-video-content trm-overlay">
+    <img src="//stcn-1313263980.cos.ap-shanghai.myqcloud.com/img/post/lds3-exclusive-clip/1.jpg" alt="video-cover" loading="lazy" onerror='this.onerror=null;this.src="/img/404.jpg"'>
+    <div class="trm-button-puls"></div>
+    <iframe width="100%" height="100%" src="https://player.startrekcn.cn/player/?url=https://drive.startrekcn.cn/d/site/lds3Exclusive.mkv"></iframe>
+      <i class="fas fa-play"></i>
+    </a>
+  </div>
+</div>
+]]></content>
+      <categories>
+        <category>news</category>
+      </categories>
+      <tags>
+        <tag>LDS, Lower Decks, 底层甲板, Crisis Point,新闻, 预告</tag>
       </tags>
   </entry>
   <entry>
@@ -325,27 +290,6 @@ Deadine报道：“这个系列的原版演员克里斯·派恩、佐伊·索尔
       </tags>
   </entry>
   <entry>
-    <title>星际迷航:神童 将在10月27日回归！</title>
-    <url>/news/prodigy-new-teaser-clip/</url>
-    <content><![CDATA[<p><font color="#ff8200">#星际迷航:神童#</font> 第一季下半季也将有十集，真·珍妈出场！<span id="more"></span></p>
-<div class="trm-video trm-scroll-animation trm-active-el" data-scroll="" data-scroll-offset="40">
-  <div class="trm-video-content trm-overlay">
-    <img src="//stcn-1313263980.cos.ap-shanghai.myqcloud.com/img/post/pronewclip/pronewclip.jpg" alt="video-cover" loading="lazy" onerror='this.onerror=null;this.src="/img/404.jpg"'>
-    <div class="trm-button-puls"></div>
-    <iframe width="100%" height="100%" src="https://player.startrekcn.cn/player/?url=https://drive.startrekcn.cn/d/site/pronewclip.mkv" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen" mozallowfullscreen="mozallowfullscreen" msallowfullscreen="msallowfullscreen" oallowfullscreen="oallowfullscreen" webkitallowfullscreen="webkitallowfullscreen" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts" __idm_id__="34447361"></iframe>
-      <i class="fas fa-play"></i>
-    </a>
-  </div>
-</div>
-]]></content>
-      <categories>
-        <category>news</category>
-      </categories>
-      <tags>
-        <tag>PRO, Prodigy, 新闻, 神童, 预告</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>星际迷航2022年终混剪</title>
     <url>/news/st-2022-tribute/</url>
     <content><![CDATA[<link rel="preconnect" href="https://fonts.googleapis.com">
@@ -376,6 +320,62 @@ Deadine报道：“这个系列的原版演员克里斯·派恩、佐伊·索尔
       </categories>
       <tags>
         <tag>混剪, 趣闻, 新闻</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>星际迷航:神童 将在10月27日回归！</title>
+    <url>/news/prodigy-new-teaser-clip/</url>
+    <content><![CDATA[<p><font color="#ff8200">#星际迷航:神童#</font> 第一季下半季也将有十集，真·珍妈出场！<span id="more"></span></p>
+<div class="trm-video trm-scroll-animation trm-active-el" data-scroll="" data-scroll-offset="40">
+  <div class="trm-video-content trm-overlay">
+    <img src="//stcn-1313263980.cos.ap-shanghai.myqcloud.com/img/post/pronewclip/pronewclip.jpg" alt="video-cover" loading="lazy" onerror='this.onerror=null;this.src="/img/404.jpg"'>
+    <div class="trm-button-puls"></div>
+    <iframe width="100%" height="100%" src="https://player.startrekcn.cn/player/?url=https://drive.startrekcn.cn/d/site/pronewclip.mkv" frameborder="0" border="0" marginwidth="0" marginheight="0" scrolling="no" allowfullscreen="allowfullscreen" mozallowfullscreen="mozallowfullscreen" msallowfullscreen="msallowfullscreen" oallowfullscreen="oallowfullscreen" webkitallowfullscreen="webkitallowfullscreen" sandbox="allow-top-navigation allow-same-origin allow-forms allow-scripts" __idm_id__="34447361"></iframe>
+      <i class="fas fa-play"></i>
+    </a>
+  </div>
+</div>
+]]></content>
+      <categories>
+        <category>news</category>
+      </categories>
+      <tags>
+        <tag>PRO, Prodigy, 新闻, 神童, 预告</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>希思罗机场惊现瓦肯人！</title>
+    <url>/news/vulcan-in-airport/</url>
+    <content><![CDATA[<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@900&display=swap" rel="stylesheet">
+
+<style>
+    h1, h2, h3, h4, strong{
+        font-family: 'Noto Serif SC', serif;
+    }
+    img{
+        width: 100%; height: auto;max-width: 100%; display: block; 
+    }
+</style>
+<p>希思罗机场惊现瓦肯人！<br>近日，星际联邦组织舰队军官和瓦肯星外交人员前往地球英国伦敦希思罗机场一日游，以促进星联各时空种族友好交流。希望星联下次来中国看看哈！</p>
+<details> <summary></summary>（实际上是派拉蒙在英国的宣传活动哈😉）</details> 
+
+<div class="trm-video trm-scroll-animation trm-active-el" data-scroll="" data-scroll-offset="40">
+  <div class="trm-video-content trm-overlay">
+    <img src="//stcn-1313263980.cos.ap-shanghai.myqcloud.com/img/post/vulcan-in-airport/1.jpg" alt="video-cover" loading="lazy" onerror='this.onerror=null;this.src="/img/404.jpg"'>
+    <div class="trm-button-puls"></div>
+    <iframe width="100%" height="100%" src="https://player.startrekcn.cn/player/?url=https://drive.startrekcn.cn/d/site/vulcans-in-airport.mp4"></iframe>
+      <i class="fas fa-play"></i>
+    </a>
+  </div>
+</div>
+]]></content>
+      <categories>
+        <category>news</category>
+      </categories>
+      <tags>
+        <tag>趣闻, 新闻</tag>
       </tags>
   </entry>
   <entry>
@@ -427,8 +427,8 @@ Deadine报道：“这个系列的原版演员克里斯·派恩、佐伊·索尔
       </tags>
   </entry>
   <entry>
-    <title>希思罗机场惊现瓦肯人！</title>
-    <url>/news/vulcan-in-airport/</url>
+    <title>星际迷航:发现号 第五季最新消息</title>
+    <url>/news/dis5-set-visit/</url>
     <content><![CDATA[<link rel="preconnect" href="https://fonts.googleapis.com">
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
 <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@900&display=swap" rel="stylesheet">
@@ -441,14 +441,14 @@ Deadine报道：“这个系列的原版演员克里斯·派恩、佐伊·索尔
         width: 100%; height: auto;max-width: 100%; display: block; 
     }
 </style>
-<p>希思罗机场惊现瓦肯人！<br>近日，星际联邦组织舰队军官和瓦肯星外交人员前往地球英国伦敦希思罗机场一日游，以促进星联各时空种族友好交流。希望星联下次来中国看看哈！</p>
-<details> <summary></summary>（实际上是派拉蒙在英国的宣传活动哈😉）</details> 
 
+<p><font color="#ff8200">#星际迷航:发现号#</font> 第五季正在多伦多的片场紧锣密鼓地拍摄中，<br>库伯医生的扮演者威尔森·克鲁兹在星际迷航日带大家参观了新一季的片场，<br>包括全新的舰长室，联邦总部和新的制服。</p>
+<h4><strong>发现号第五季目前暂定于<font color="#fc3a6a">2023年</font>下半年回归。</strong></h4>
 <div class="trm-video trm-scroll-animation trm-active-el" data-scroll="" data-scroll-offset="40">
   <div class="trm-video-content trm-overlay">
-    <img src="//stcn-1313263980.cos.ap-shanghai.myqcloud.com/img/post/vulcan-in-airport/1.jpg" alt="video-cover" loading="lazy" onerror='this.onerror=null;this.src="/img/404.jpg"'>
+    <img src="//stcn-1313263980.cos.ap-shanghai.myqcloud.com/img/post/dis5-set-visit/1.jpg" alt="video-cover" loading="lazy" onerror='this.onerror=null;this.src="/img/404.jpg"'>
     <div class="trm-button-puls"></div>
-    <iframe width="100%" height="100%" src="https://player.startrekcn.cn/player/?url=https://drive.startrekcn.cn/d/site/vulcans-in-airport.mp4"></iframe>
+    <iframe width="100%" height="100%" src="https://player.startrekcn.cn/player/?url=https://drive.startrekcn.cn/d/site/dis5setvisit.mkv"></iframe>
       <i class="fas fa-play"></i>
     </a>
   </div>
@@ -458,7 +458,7 @@ Deadine报道：“这个系列的原版演员克里斯·派恩、佐伊·索尔
         <category>news</category>
       </categories>
       <tags>
-        <tag>趣闻, 新闻</tag>
+        <tag>DIS, DSC, Discovery, 发现号, 新闻</tag>
       </tags>
   </entry>
 </search>
