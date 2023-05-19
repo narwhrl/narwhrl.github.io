@@ -3622,10 +3622,51 @@ pre .coffeescript .title {
   font-display: swap;
   src: url(https://fonts.gstatic.com/s/notoserifsc/v22/H4c8BXePl9DZ0Xe7gG9cyOj7miKxSzY.otf) format('opentype');
 }
+* {
+  font-family: Rubik, MiSans, system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
 h1,
 h2,
+h3,
+h4,
+h5,
+h6,
 strong {
-  font-family: 'Noto Serif SC', serif;
+  font-weight: 700 !important;
+}
+.trm-menu nav ul li a {
+  font-size: 13px !important;
+}
+.trm-label {
+  font-size: 11px !important;
+}
+.trm-top-bar:after {
+  display: none;
+}
+.trm-service-icon-box.trm-scroll-animation.trm-p-20.trm-active-el {
+  outline: 2px solid #cccccc7f;
+}
+.trm-service-icon-box.trm-scroll-animation.trm-p-20.trm-active-el:hover {
+  background-color: #cccccc7f;
+}
+li > div.trm-label > a:after {
+  content: "\f35d";
+  /* 这里的代码是 FontAwesome 中 fa-solid fa-arrow-up-right-from-square 的 Unicode 编码，这个编码可以在 FontAwesome 的官网上查找到。*/
+  font-family: "Font Awesome 5 Free";
+  font-size: 5px;
+  font-weight: 600;
+  display: inline-block;
+  padding-left: 2px;
+}
+.trm-footer-item a:hover {
+  text-decoration: underline;
+}
+.trm-label a {
+  transition: all 0.4s ease-in-out;
+}
+.trm-label a:not(a.trm-anima-link):hover {
+  color: #ff8200;
+  transition: all 0.4s ease-in-out;
 }
 .text-center {
   display: none;
@@ -3680,7 +3721,7 @@ strong {
   justify-content: left;
 }
 .trm-top-bar .container .trm-left-side .trm-logo-frame img {
-  height: 60%;
+  height: 50%;
   width: auto !important;
 }
 /*
