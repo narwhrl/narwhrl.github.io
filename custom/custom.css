@@ -1,0 +1,68 @@
+a.avatar {
+    display: none !important;
+}
+
+body, .navbar{    
+    background-image: linear-gradient(90deg, rgba(60, 10, 30, .04) 3%, transparent 0), linear-gradient(1turn, rgba(60, 10, 30, .04) 3%, transparent 0) !important;
+    background-size: 20px 20px !important;
+    background-position: 50% !important;
+    background-attachment: fixed;
+}
+
+/* 文章内链接 */
+li:not([class]) a:not([class]),
+p:not([class]) a:not([class]),
+table a:not([class]) {
+  /*color: var(--theme-link);*/
+  padding-right: 1px;
+  margin-right: 2px;
+  background: linear-gradient(0, var(--theme-link), var(--theme-link)) no-repeat center bottom / 100% 2px;
+}
+
+hr {
+  color: var(--text-meta);
+  opacity: 1;
+  border-top: 1px solid #e6e6e6;
+}
+
+::selection {
+  background: var(--theme-link-opa);
+}
+
+.mx-4 {
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+.justify-center {
+  justify-content: center;
+}
+.icon-svg {
+filter: grayscale(1);
+transition: filter .50s;
+}
+.icon-svg:hover {
+filter: grayscale(0);
+transition: filter .50s;
+}
+
+img.logo-light-hidden {
+  display: none;
+}
+
+:root[data-theme="dark"] img.logo-hidden {
+    display: none;
+    }
+
+:root[data-theme="dark"] img.logo-block {
+    display: block;
+}
+
+@media (prefers-color-scheme: dark) {
+  img.logo-hidden {
+    display: none;
+    }
+
+  img.logo-block {
+      display: block;
+  }
+}
