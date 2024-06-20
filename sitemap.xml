@@ -2,7 +2,7 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://startrekchina.org/releases/index.html</loc>
+    <loc>https://startrekchina.org/about/index.html</loc>
     
     <lastmod>2024-06-20</lastmod>
     
@@ -20,7 +20,7 @@
   </url>
   
   <url>
-    <loc>https://startrekchina.org/about/privacy.html</loc>
+    <loc>https://startrekchina.org/releases/index.html</loc>
     
     <lastmod>2024-06-20</lastmod>
     
@@ -29,7 +29,7 @@
   </url>
   
   <url>
-    <loc>https://startrekchina.org/about/index.html</loc>
+    <loc>https://startrekchina.org/about/privacy.html</loc>
     
     <lastmod>2024-06-20</lastmod>
     
