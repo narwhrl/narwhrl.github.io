@@ -1,6 +1,6 @@
+https://startrekchina.org/releases/index.html
 https://startrekchina.org/about/index.html
 https://startrekchina.org/links/index.html
-https://startrekchina.org/releases/index.html
 https://startrekchina.org/about/privacy.html
 https://startrekchina.org/page/index.html
 https://startrekchina.org/assets/timeline.json
